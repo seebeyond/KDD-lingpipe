@@ -15,7 +15,7 @@ import xinghuangxu.lingpipe.tutorial.sentiment.PolarityBasic;
 /**
  * Main entrance
  * 
- * @author xinghuang xu
+ * @author xinghuang zhang
  * 
  * 
  */
