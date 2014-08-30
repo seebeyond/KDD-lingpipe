@@ -17,6 +17,7 @@ import xinghuangxu.lingpipe.tutorial.sentiment.PolarityBasic;
  * 
  * @author xinghuang xu
  * 
+ * 
  */
 public class Extractor {
 
